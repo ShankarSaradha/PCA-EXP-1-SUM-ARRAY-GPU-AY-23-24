@@ -1,5 +1,5 @@
 # PCA: EXP-1  SUM ARRAY GPU
-<h3>NAME : Shankar Saradha P</h3>
+<h3>NAME : Shankar Saradha </h3>
 <h3>REGISTER NO: 212221240052</h3>
 <h3>EX. NO : 1</h3>
 <h3>DATE : 27.8.24</h3>
